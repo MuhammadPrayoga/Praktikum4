@@ -56,6 +56,6 @@
 
 # Output
 
-![](gambar/praktikumoutput.png)
+![](gambar/paktikumoutput.png)
 
 
