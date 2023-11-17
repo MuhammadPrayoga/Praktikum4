@@ -43,9 +43,19 @@
 ![](gambar/latihan.png)
 
 # Output
+
 ![gambar](gambar/latihanoutput.png)
 
 # Praktikum
 
-![](gambar/
+![](gambar/praktikum.png)
+
+# Flowchart
+
+![](gambar/flowchart.png)
+
+# Output
+
+![](gambar/praktikumoutput.png)
+
 
