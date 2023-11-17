@@ -40,6 +40,8 @@
 `list_1.extend(list_2)`
 `print("List 1 setelah digabung dengan list 2:", list_1)`
 
+![](gambar/latihan.png)
+
 # Output
 ![gambar](gambar/latihanoutput.png)
 
