@@ -45,3 +45,7 @@
 # Output
 ![gambar](gambar/latihanoutput.png)
 
+# Praktikum
+
+![](gambar/
+
