@@ -1,4 +1,4 @@
-# Praktikum 9 
+# Praktikum 5
 
 # Latihan
 ## Buat sebuah list sebanyak 5 elemen 
